@@ -109,40 +109,5 @@
             <version>1.19.2-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-
-        <dependency>
-            <groupId>com.songoda</groupId>
-            <artifactId>SongodaCore</artifactId>
-            <version>2.6.16</version>
-            <scope>compile</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.bgsoftware</groupId>
-            <artifactId>wildstacker</artifactId>
-            <version>3.5.1</version>
-            <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>uk.antiperson</groupId>
-            <artifactId>stackmob</artifactId>
-            <version>4-0-2</version>
-            <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>me.minebuilders</groupId>
-            <artifactId>Clearlag</artifactId>
-            <version>3.0.6</version>
-            <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>io.lumine</groupId>
-            <artifactId>MythicMobs</artifactId>
-            <version>4.10.1</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
 </project>
