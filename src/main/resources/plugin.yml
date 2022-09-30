@@ -1,0 +1,11 @@
+name: LSP-AutoShutdown
+main: net.Phasor.autoshutdown.AutoShutdownPlugin
+version: 2.3
+commands:
+  autoshutdown:
+    description: Interact with the AutoShutdown plugin
+    usage: "Usage: '/lps-autoshutdown help'"
+  as:
+    description: Interact with the AutoShutdown plugin
+    usage: "Usage: '/as help'"
+    
